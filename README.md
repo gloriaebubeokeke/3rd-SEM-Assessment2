@@ -1,42 +1,26 @@
-# 3rd-sem-assessment2
+# 3rd Semester Assessment 2 – Vue.js (TypeScript)
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📌 Project Description
 
-## Recommended IDE Setup
+This project is a Vue 3 + TypeScript conversion of my Second Semester React (TypeScript) exam.
+The original exam was implemented in React, and this submission recreates the same functionality using Vue 3 and TypeScript.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🛠 Technologies Used
 
-## Recommended Browser Setup
+- Vue 3
+- TypeScript
+- Vite
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## 🎯 Features
 
-## Type Support for `.vue` Imports in TS
+- Markdown editor
+- Live preview of markdown content
+- Type-safe implementation with Vue + TypeScript
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## 🚀 Project Setup
 
-## Customize configuration
+### Install dependencies
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
 ```
